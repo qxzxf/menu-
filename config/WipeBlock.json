@@ -1,0 +1,76 @@
+{
+  "Настройки текущей блокировки": {
+    "Сдвиг блокировки в секундах ('1852' - на 1852 секунд вперёд, '-1852' на 1852 секунд назад)": 0,
+    "Настройки блокировки предметов": {
+      "1800": [
+        "shotgun.waterpipe",
+        "pistol.revolver",
+        "shotgun.double"
+      ],
+      "3600": [
+        "flamethrower",
+        "bucket.helmet",
+        "riot.helmet",
+        "pants",
+        "hoodie"
+      ],
+      "7200": [
+        "pistol.python",
+        "pistol.semiauto",
+        "coffeecan.helmet",
+        "roadsign.jacket",
+        "roadsign.kilt",
+        "icepick.salvaged",
+        "axe.salvaged",
+        "hammer.salvaged"
+      ],
+      "14400": [
+        "shotgun.pump",
+        "shotgun.spas12",
+        "pistol.m92",
+        "pistol.prototype17",
+        "smg.mp5",
+        "jackhammer",
+        "chainsaw"
+      ],
+      "28800": [
+        "smg.2",
+        "smg.thompson",
+        "rifle.semiauto",
+        "explosive.satchel",
+        "grenade.f1",
+        "grenade.molotov",
+        "grenade.flashbang",
+        "grenade.beancan",
+        "surveycharge"
+      ],
+      "43200": [
+        "rifle.bolt",
+        "rifle.ak",
+        "rifle.ak.ice",
+        "hmlmg",
+        "rifle.lr300",
+        "metal.facemask",
+        "metal.plate.torso",
+        "rifle.l96",
+        "rifle.m39"
+      ],
+      "64800": [
+        "ammo.rifle.explosive",
+        "ammo.rocket.mlrs",
+        "ammo.rocket.basic",
+        "ammo.rocket.fire",
+        "ammo.rocket.hv",
+        "rocket.launcher",
+        "multiplegrenadelauncher",
+        "explosive.timed"
+      ],
+      "86400": [
+        "lmg.m249",
+        "heavy.plate.helmet",
+        "heavy.plate.jacket",
+        "heavy.plate.pants"
+      ]
+    }
+  }
+}
